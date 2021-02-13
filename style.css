@@ -153,11 +153,30 @@ sup{
   color: #787885;
 }
 
+/* .commerse-list li{
+  margin-top: 30px !important;
+} */
+
 
 .commerse-list li img{
   margin-left: -10x !important;
 }
 
-.commerse-list li p{
-  margin-left: -10px !important;
+.commerse-list li .vintage{
+  margin-left: -5px !important;
+  line-height: 23px !important;
 }
+
+.commerse-list li .eligible{
+  color: #787885;
+  font-size: 12px !important;
+}
+
+
+.star ul{
+  margin-left: -45px !important;
+}
+
+/* .commerse-link{
+  width: 200px !important;
+} */
